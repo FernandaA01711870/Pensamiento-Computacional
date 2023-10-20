@@ -1,0 +1,11 @@
+Correcciones finales:
+
+1.- README - algoritmo
+
+Me gustaría que volviera a revisar el README la parte del algoritmo fue corregido, se agregaron las correcciones y observaciones que me realizó.
+
+2.- Uso de listas
+
+En el apartado del avance 6 y 7 del uso de listas se marco como incompleto ya que se dice que hago mención de la lista pero no la utilizo sin embargo esta lista es utilizada para el menú y es llamada en la función 'main' para cumplir su objetivo de menú. Y sobre la mención de solo usar un uso único de listas, este fue un tema que hable con usted en clase y me dijo que el uso de la lista era correcto.
+
+Por el momento es todo, gracias :D
