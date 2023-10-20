@@ -1,3 +1,4 @@
+
 # Calculadora de perímetros y áreas
 
 Mientras buscaba un proyecto para realizar en Python 3 la primera cosa que me vino a la mente fue la típica calculadora, pero en proyectos anteriores de programación siempre había realizado calculadoras así que esta vez decidí hacer un pequeño cambio y subir un poco de nivel haciendo una calculadora que nos permita calcular el perímetro y área de una figura.
@@ -137,4 +138,16 @@ Y para el área dependiendo de la figura se usara la fórmula para dicha figura 
 Para esta entrega del proyecto desarrollado en Python, he tomado la decisión de no implementar el uso de matrices en el código. Mi proyecto se centra en el desarrollo de una calculadora que permite calcular el área y perímetro de diversas figuras geométricas, como cuadrados, triángulos, rectángulos, paralelogramos, rombos, trapecios, círculos y polígonos regulares.
 
 A pesar de que el proyecto pueda parecer una tarea sencilla en su naturaleza, me ha brindado la oportunidad de integrar de manera exitosa todos los temas que hemos abordado hasta el momento en nuestro curso. Cada concepto ha sido aplicado con precisión y cuidado siguiendo las reglas establecidas en la materia, con el objetivo de mejorar el funcionamiento y mantener mi cogido legible y comprensible. Mi enfoque ha sido la eficacia y la claridad en la implementación y no únicamente integrar características complejas y es por esta razón que he llegado a la conclusión de no incorporar elementos adicionales en el código.
+
+# Correcciones finales
+
+1.- README - algoritmo
+
+Me gustaría que volviera a revisar el README la parte del algoritmo fue corregido, se agregaron las correcciones y observaciones que me realizó.
+
+2.- Uso de listas
+
+En el apartado del avance 6 y 7 del uso de listas se marco como incompleto ya que se dice que hago mención de la lista pero no la utilizo sin embargo esta lista es utilizada para el menú y es llamada en la función 'main' para cumplir su objetivo de menú. Y sobre la mención de solo usar un uso único de listas, este fue un tema que hable con usted en clase y me dijo que el uso de la lista era correcto.
+
+Por el momento es todo, gracias :D
 
